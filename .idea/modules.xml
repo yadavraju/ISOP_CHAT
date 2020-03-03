@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyS3Chat.iml" filepath="$PROJECT_DIR$/MyS3Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/MyS3Chat-app.iml" filepath="$PROJECT_DIR$/app/MyS3Chat-app.iml" group="MyS3Chat/app" />
+      <module fileurl="file://$PROJECT_DIR$/PersonalProject-MyS3Chat.iml" filepath="$PROJECT_DIR$/PersonalProject-MyS3Chat.iml" group="MyS3Chat" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
